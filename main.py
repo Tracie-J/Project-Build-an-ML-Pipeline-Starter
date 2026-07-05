@@ -6,7 +6,7 @@ import os
 import wandb
 import hydra
 from omegaconf import DictConfig
-# configure github
+# configure git
 _steps = [
     "download",
     "basic_cleaning",
