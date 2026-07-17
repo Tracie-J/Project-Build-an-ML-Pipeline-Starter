@@ -181,6 +181,11 @@ Please, make sure all steps are using **the same** python version and that you h
 Public W&B Project:
 https://wandb.ai/johnsont-western-governors-university/nyc_airbnb?nw=nwuserjohnsont
 
+## Github Repository
+
+Project-Build-an-ML-Pipeline-Starter Github Repository:
+https://github.com/Tracie-J/Project-Build-an-ML-Pipeline-Starter.git
+
 ## License
 
 [License](LICENSE.txt)
